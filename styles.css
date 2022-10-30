@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+}
+.navbar-dark {
+    background: #58754f;
+    height:50px;
+}
+
+a.dropdown-item {
+    font-size: 0.85rem !important;
+}
+
+hr.dropdown-divider {
+    border-top: 1px;
+    margin: 8px 12px;
+}
+h1 {
+    color: #FFF;
+}
+
+.footer a {
+    text-decoration: none;
+}
+
+/* animated links from bontalor website (https://github.com/bontalor) */
+
+#links a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+#links a:hover {
+    animation: linkhover 3s infinite;
+}
